@@ -1,0 +1,1 @@
+ls -lhS | grep '^-' | head -5

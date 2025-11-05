@@ -1,0 +1,1 @@
+zip -r /tmp/backup.zip /etc
